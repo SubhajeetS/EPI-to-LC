@@ -166,7 +166,7 @@ Mappings for:
 |---------|----------|
 | 6.1       | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) |
 | 6.2       | [66. Plus One](https://leetcode.com/problems/plus-one/)   |
-|	    | [67. Add Binary](https://leetcode.com/problems/add-binary/)  |								|
+|	    | [(Variant) 67. Add Binary](https://leetcode.com/problems/add-binary/)  |								|
 | 6.3       | []() |
 | 6.4       | [55. Jump Game](https://leetcode.com/problems/jump-game/) |
 | 6.5       | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
