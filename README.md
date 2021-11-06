@@ -148,42 +148,42 @@ Mappings for:
 
 | Problem | LeetCode |
 |---------|----------|
-| 4.1       | []() |
-| 4.2 | []() |
-| 4.3 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) |
-| 4.4 | []() |
-| 4.5 | []() |
-| 4.6 | []() |
-| 4.7 | [50. Pow(x,n)](https://leetcode.com/problems/powx-n/) |
-| 4.8 | []() |
-| 4.9 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) |
-| 4.10 | [470. Implement Rand10() using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) note: book is implement Rand6() with Rand2() |
-| 4.11 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) note: book asks to determine overlapping area where it exists |
+| 5.1       | []() |
+| 5.2 | []() |
+| 5.3 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) |
+| 5.4 | []() |
+| 5.5 | []() |
+| 5.6 | []() |
+| 5.7 | [50. Pow(x,n)](https://leetcode.com/problems/powx-n/) |
+| 5.8 | []() |
+| 5.9 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) |
+| 5.10 | [470. Implement Rand10() using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) note: book is implement Rand6() with Rand2() |
+| 5.11 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) note: book asks to determine overlapping area where it exists |
 
 # Arrays
 
 | Problem | LeetCode |
 |---------|----------|
-| 5.1       | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) |
-| 5.2       | []() |
-| 5.3       | []() |
-| 5.4       | [55. Jump Game](https://leetcode.com/problems/jump-game/) |
-| 5.5       | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 5.6       | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 5.7 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
-| 5.8 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort) |
-| 5.9 | [204. Count Primes](https://leetcode.com/problems/count-primes) note: book asks to return a list of the primes |
-| 5.10 | []() |
-| 5.11 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) |
-| 5.12 | []() |
-| 5.13 | []() |
-| 5.14 | [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) |
-| 5.15 | []() |
-| 5.16 | []() |
-| 5.17 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
-| 5.18 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |
-| 5.19 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) |
-| 5.20 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |
+| 6.1       | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) |
+| 6.2       | [66. Plus One](https://leetcode.com/problems/plus-one/) |
+| 6.3       | []() |
+| 6.4       | [55. Jump Game](https://leetcode.com/problems/jump-game/) |
+| 6.5       | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 6.6       | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 6.7 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
+| 6.8 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort) |
+| 6.9 | [204. Count Primes](https://leetcode.com/problems/count-primes) note: book asks to return a list of the primes |
+| 6.10 | []() |
+| 6.11 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) |
+| 6.12 | []() |
+| 6.13 | []() |
+| 6.14 | [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) |
+| 6.15 | []() |
+| 6.16 | []() |
+| 6.17 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
+| 6.18 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |
+| 6.19 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) |
+| 6.20 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |
 
 # Strings
 
