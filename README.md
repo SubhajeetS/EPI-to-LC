@@ -167,7 +167,7 @@ Mappings for:
 | 6.1       | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) |
 | 6.2       | [66. Plus One](https://leetcode.com/problems/plus-one/)   |
 |	    | [(Variant) 67. Add Binary](https://leetcode.com/problems/add-binary/)  |								|
-| 6.3       | []() |
+| 6.3       | [43. Multiply Strings (positive number only)](https://leetcode.com/problems/multiply-strings/) |
 | 6.4       | [55. Jump Game](https://leetcode.com/problems/jump-game/) |
 | 6.5       | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 6.6       | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
