@@ -172,6 +172,7 @@ Mappings for:
 |	    | [(Variant) 45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)  |
 | 6.5       | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 |	    | [(Variant) 27. Remove Element](https://leetcode.com/problems/remove-element/)  |
+|	    | [(Variant) 80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  |
 | 6.6       | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 6.7 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
 | 6.8 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort) |
