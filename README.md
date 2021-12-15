@@ -174,6 +174,7 @@ Mappings for:
 |	    | [(Variant) 27. Remove Element](https://leetcode.com/problems/remove-element/)  |
 |	    | [(Variant) 80. Remove Duplicates from Sorted Array II (m = 2)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  |
 | 6.6       | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+|	    | [(Variant) 1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)  |
 | 6.7 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
 | 6.8 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort) |
 | 6.9 | [204. Count Primes](https://leetcode.com/problems/count-primes) note: book asks to return a list of the primes |
