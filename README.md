@@ -34,8 +34,8 @@ Mappings for:
 |	    | [(Variant) 1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)  |
 | 6.7 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
 | 6.8 | [204. Count Primes](https://leetcode.com/problems/count-primes) |
-| 6.10 | []() |
-| 6.11 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) |
+| 6.9 | []() |
+| 6.10 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) |
 | 6.12 | []() |
 | 6.13 | []() |
 | 6.14 | [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) |
